@@ -2,7 +2,6 @@
 """Module for asynchronous generator"""
 import asyncio
 import random
-from colorsys import yiq_to_rgb
 from typing import Generator
 
 
